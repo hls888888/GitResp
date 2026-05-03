@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffdb04a0-6522-42a7-8766-3530b50ecb77" name="更改" comment="新建demo7">
-      <change afterPath="$PROJECT_DIR$/demo6/demo8.py" afterDir="false" />
+    <list default="true" id="ffdb04a0-6522-42a7-8766-3530b50ecb77" name="更改" comment="1111">
+      <change beforePath="$PROJECT_DIR$/demo6/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo6/demo8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -82,11 +95,71 @@
       <option name="project" value="LOCAL" />
       <updated>1777838771969</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新建demo7">
+      <option name="closed" value="true" />
+      <created>1777839032485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839032485</updated>
+    </task>
+    <task id="LOCAL-00004" summary="新建demo7">
+      <option name="closed" value="true" />
+      <created>1777839087043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839087043</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新建demo7">
+      <option name="closed" value="true" />
+      <created>1777839112043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839112043</updated>
+    </task>
+    <task id="LOCAL-00006" summary="新建demo7">
+      <option name="closed" value="true" />
+      <created>1777839166254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839166254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新建demo7">
+      <option name="closed" value="true" />
+      <created>1777839170773</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839170773</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1111">
+      <option name="closed" value="true" />
+      <created>1777839353719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777839353719</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建demo7" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建demo7" />
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
   </component>
 </project>
